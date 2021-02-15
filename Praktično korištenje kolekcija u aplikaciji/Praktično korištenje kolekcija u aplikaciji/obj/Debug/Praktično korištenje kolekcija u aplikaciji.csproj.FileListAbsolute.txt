@@ -1,0 +1,10 @@
+C:\Users\ivanm\source\repos\Praktično korištenje kolekcija u aplikaciji\Praktično korištenje kolekcija u aplikaciji\bin\Debug\Praktično korištenje kolekcija u aplikaciji.exe.config
+C:\Users\ivanm\source\repos\Praktično korištenje kolekcija u aplikaciji\Praktično korištenje kolekcija u aplikaciji\bin\Debug\Praktično korištenje kolekcija u aplikaciji.exe
+C:\Users\ivanm\source\repos\Praktično korištenje kolekcija u aplikaciji\Praktično korištenje kolekcija u aplikaciji\bin\Debug\Praktično korištenje kolekcija u aplikaciji.pdb
+C:\Users\ivanm\source\repos\Praktično korištenje kolekcija u aplikaciji\Praktično korištenje kolekcija u aplikaciji\obj\Debug\Praktično korištenje kolekcija u aplikaciji.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\Praktično korištenje kolekcija u aplikaciji\Praktično korištenje kolekcija u aplikaciji\obj\Debug\Praktično_korištenje_kolekcija_u_aplikaciji.Form1.resources
+C:\Users\ivanm\source\repos\Praktično korištenje kolekcija u aplikaciji\Praktično korištenje kolekcija u aplikaciji\obj\Debug\Praktično_korištenje_kolekcija_u_aplikaciji.Properties.Resources.resources
+C:\Users\ivanm\source\repos\Praktično korištenje kolekcija u aplikaciji\Praktično korištenje kolekcija u aplikaciji\obj\Debug\Praktično korištenje kolekcija u aplikaciji.csproj.GenerateResource.cache
+C:\Users\ivanm\source\repos\Praktično korištenje kolekcija u aplikaciji\Praktično korištenje kolekcija u aplikaciji\obj\Debug\Praktično korištenje kolekcija u aplikaciji.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Praktično korištenje kolekcija u aplikaciji\Praktično korištenje kolekcija u aplikaciji\obj\Debug\Praktično korištenje kolekcija u aplikaciji.exe
+C:\Users\ivanm\source\repos\Praktično korištenje kolekcija u aplikaciji\Praktično korištenje kolekcija u aplikaciji\obj\Debug\Praktično korištenje kolekcija u aplikaciji.pdb
